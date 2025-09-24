@@ -6,6 +6,6 @@ Esta dksdjf sdkjsdjfjsdf
 
 ## Contenido
 ### Relación 1
-* [ejercicio1]
+* [ejercicio1](https://github.com/pgonaug-playamar/edd-1dam/blob/main/uno.txt)
 * ejercicio2
 * ejercicio3
